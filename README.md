@@ -112,7 +112,7 @@ department_name	 VARCHAR
 
 Installation
 Clone Repository
-git  clone https://github.com/yourusername/employee-management-system.git
+git  clone https://github.com
 
 Create Virtual Environment
 python -m venv venv
