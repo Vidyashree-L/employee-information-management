@@ -1,6 +1,5 @@
 # employee-information-management
 
-
 A full-stack Employee Management System built using Python, Flask, MySQL, SQLAlchemy, Bootstrap, and REST APIs. The application helps organizations manage employee records, departments, salaries, and HR operations through an intuitive web interface.
 
 Features
